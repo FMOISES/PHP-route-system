@@ -1,0 +1,2 @@
+# PHP-route-system
+Route System Created in PHP, which calls a Controller and an Action according to the Route in the indicated url. The system uses the url to decide what action to take in a given situation; it can be the rendering of a view or another deal, to use just add the files to the directories / App and the directory / Dp. or the directories of your choice (in this case you must make adjustments to the addresses), After adding the files, to use the routes simply instantiate an object of Class Route.
